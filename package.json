@@ -1,0 +1,14 @@
+{
+  "name": "sworry_js",
+  "version": "1.0.0",
+  "description": "simple js discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SnakeEdit",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.2"
+  }
+}

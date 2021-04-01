@@ -1,0 +1,11 @@
+Создаем через сайт discord developer нового бота
+cmd директорию ведем в папку с будущим ботом [команда cd (путь)]
+пишем в строке: 
+npm init //enter*
+npm install
+npm install discord.js
+
+редактируем config (свставляем свой токен [взять с сайта discord.dev]
+
+в cmd команда запуска бота - "node index.js"
+
